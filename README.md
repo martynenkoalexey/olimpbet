@@ -1,2 +1,2 @@
 # olimpbet
-olimp.bet
+Репозиторий для docker-compose
