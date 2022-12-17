@@ -1,2 +1,3 @@
 # olimpbet
-Репозиторий для docker-compose
+Running:
+docker-compose -p olimpbackend up -d
